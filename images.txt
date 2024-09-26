@@ -16,3 +16,4 @@ rabbitmq:latest
 ypptec/nascab:latest
 gitlab/gitlab-ce:latest
 gitlab/gitlab-runner:latest
+xhofe/alist:latest-ffmpeg
