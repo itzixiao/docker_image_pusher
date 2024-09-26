@@ -9,6 +9,7 @@ tomcat:9-jdk8
 keking/kkfileview:latest
 minio/minio:latest
 mysql:latest
+mysql:8.4
 mysql:5.7
 postgis/postgis:latest
 redis:latest
