@@ -13,6 +13,7 @@ mysql:8.4
 mysql:5.7
 postgis/postgis:latest
 redis:latest
+bitnami/redis:latest
 rabbitmq:latest
 ypptec/nascab:latest
 gitlab/gitlab-ce:latest
