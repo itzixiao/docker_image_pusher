@@ -22,3 +22,4 @@ gitlab/gitlab-ce:17.2.8-ce.0
 gitlab/gitlab-runner:latest
 xhofe/alist:v3.37.4-ffmpeg
 xhofe/alist:latest-ffmpeg
+648540858/wvp_pro:latest
