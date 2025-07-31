@@ -4,6 +4,10 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+nginx:alpine
+node:18-alpine
+mysql:8.0
+openjdk:8-jdk-alpine
 jrottenberg/ffmpeg:latest
 nginx:latest
 tomcat:9-jdk8
