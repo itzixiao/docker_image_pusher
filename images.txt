@@ -1,3 +1,5 @@
+node:18-slim
+node:18-alpine
 itzixiao/oracle-db-ee:19.3.0
 #nginx
 #支持私库
@@ -6,7 +8,6 @@ itzixiao/oracle-db-ee:19.3.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 nginx:alpine
-node:18-alpine
 mysql:8.0
 openjdk:8-jdk-alpine
 jrottenberg/ffmpeg:latest
