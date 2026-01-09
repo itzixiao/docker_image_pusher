@@ -10,7 +10,9 @@ itzixiao/oracle-db-ee:19.3.0
 #--platform=linux/arm64 xiaoyaliu/alist
 nginx:alpine
 mysql:8.0
-openjdk:8-jdk-alpine
+#OpenJDK 8 的 Alpine 官方镜像已被废弃移除
+#openjdk:8-jdk-alpine
+eclipse-temurin:8-jdk-alpine
 jrottenberg/ffmpeg:latest
 nginx:latest
 tomcat:9-jdk8
