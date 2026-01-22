@@ -1,4 +1,4 @@
-openjdk:17-jdk-slim
+eclipse-temurin:17-jdk-slim
 python:3.11-slim
 node:18
 node:18-slim
