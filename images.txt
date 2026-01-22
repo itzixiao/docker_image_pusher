@@ -1,4 +1,4 @@
-eclipse-temurin:17-jre-ubi9-minimal
+eclipse-temurin:17-jdk-ubi9-minimal
 eclipse-temurin:17-ubi9-minimal
 eclipse-temurin:17.0.17_10-jdk-ubi9-minimal
 eclipse-temurin:17-jre-ubi9-minimal
