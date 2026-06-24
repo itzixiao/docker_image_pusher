@@ -1,3 +1,4 @@
+openresty/openresty:1.21.4.1-alpine
 postgis/postgis:16-master
 postgis/postgis:15-master
 postgis/postgis:13-master
